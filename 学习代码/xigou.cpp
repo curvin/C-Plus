@@ -9,6 +9,7 @@ public:
     {
         cout << "Person的构造函数调用" << endl;
     }
+
     //析构函数
     ~Person()
     {
